@@ -1,5 +1,5 @@
 # osu-replay-analysis-tool
-ORAT (osu! replay analysis tool) is a program the detects if a player is using cheats using .osr (osu! Replay) files.
+ORAT (osu! replay analysis tool) is a program the detects if a player is using cheats using .osr (osu! Replay) files, coded by someone with extensive knowledge of how osu! cheats work.
 
 ## What cheats/hacks does it detect
 ### Timewarp
