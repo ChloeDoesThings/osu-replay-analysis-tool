@@ -23,8 +23,10 @@ Method 2: Determines if the player is using Aim cheats by detecting suspicious s
 
 Method 3: Determines if the player is using Aim cheats by detecting cursor teleports, can false flag TD plays though.
 
+Method 4: Detects if a player aims a certain way that is similar to Aimbot/Aim Assist, if so they are most likely using Aim cheats.
+
 ### Replay Copier
 Detects if the player's cursor movement/tapping is VERY similar to an already existing replay.
 
-
-
+### Replay Editor/Difficulty Changer
+Calculates 300s, 100s, 50s, and other things using replay frames and compares them to the replay data to see if a player is using replay editor and/or difficulty modification cheats.
