@@ -3,7 +3,7 @@ ORAT (osu! replay analysis tool) is a program the detects if a player is using c
 
 ## What cheats/hacks does it detect
 ### Timewarp
-It uses Replay Frames to see if the rate of frames is invalid, if so the player most likely used Timewarp.
+It uses Replay Frames to see if the replayframe frame time is invalid, if so the player most likely used Timewarp. Usually the frame time is 16.67.
 
 ### Relax
 Determines if the player used Relax in the replay using multiple methods.
